@@ -11,7 +11,7 @@ export default function VideoSwitcher() {
 
   return (
     <div className="flex flex-col items-center justify-center min-h-screen p-4 ">
-        <p className="text-white mb-5 text-xl">Select language option:</p>
+        <p className="text-white mb-1 text-xl">Select language option:</p>
       <select
         className="mb-4 p-2 border rounded bg-white text-violet-600"
         onChange={handleChange}
