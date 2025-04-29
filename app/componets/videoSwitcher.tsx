@@ -18,7 +18,7 @@ export default function VideoSwitcher() {
         value={videoUrl}
       >
         <option value="https://www.youtube.com/embed/Rv0jgCoXmEc?si=ETsPzdeXGqd2ndbE">Sinhala</option>
-        <option value="https://www.youtube.com/embed/ZczsjH5xyOA?si=HKeMxD3aazJ6gw60">Tamil</option>
+        <option value="https://www.youtube.com/embed/ZQyV_y5fvtY?si=9RIgSrsJY9T46ria">Tamil</option>
       </select>
 
       <div className="w-full max-w-2xl aspect-video">
